@@ -1,0 +1,10 @@
+1. Javascript is _________ language.,A. Compiled ,B. Programming,C. Scripting ,D. Application,C. Scripting 
+2. JavaScript is designed for following purpose -,A. To Style HTML Pages,B. To Perform Server Side Scripting Operation,C. To add interactivity to HTML Pages.,D. To Execute Query Related to DB on Server,C. To add interactivity to HTML Pages.
+3. Javascript are executed by ?,A. Server,B. Browser ,C. JVM,D. Compiler ,B. Browser 
+4. What is JavaScript?,A.JavaScript is a scripting language used to make the website interactive,B. JavaScript is an assembly language used to make the website interactive,C. JavaScript is a compiled language used to make the website interactive,D. None of the mentioned,A.JavaScript is a scripting language used to make the website interactive
+5. Arrays in JavaScript are defined by which of the following statements?,A. It is an ordered list of values,B. It is an ordered list of objects,C. It is an ordered list of string,D. It is an ordered list of functions,A. It is an ordered list of values
+6. Which of the following is not javascript data types?,A. Null type,B. Undefined type ,C. Number ,D. All of the mentioned,D. All of the mentioned
+7. Where is Client-side JavaScript code is embedded within HTML documents?,A. A URL that uses the special javascript:code,B. A URL that uses the special javascript:protocol,C. A URL that uses the special javascript:encoding,D. A URL that uses the special javascript:stack,A. URL that uses the special javascript:protocol
+8. Which of the following object is the main entry point to all client-side JavaScript features and APIs?,A. Position,B. Window ,C. Standard,D. Location,A. Position
+9. JavaScript code contain sequence of ___________,A. Executable Statements,B. Method Calls,C. All of these,D. Expressions,C. All of these
+10.JavaScript Statement terminated by ______________,A. Semicolon,B. Slash ,C. Comma,D. Full stop,A. Semicolon
