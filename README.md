@@ -5,9 +5,9 @@ Creating and developing war ship game with tool used java with JDK 1.8
 
 
 ## Demo
-
+# npm install
 Insert gif or link to demo
-![Uploading BDSE03-PFS-1121_Kadek Romi Ardana Putra_Source Code – McqMain.java 2022-08-11 11-47-32 (2).gif…]()
+![battleship](https://user-images.githubusercontent.com/96555338/184064801-79df518d-d9d8-46c3-aa42-0d82a833b1ff.gif)
 
 ## Screenshots
 
