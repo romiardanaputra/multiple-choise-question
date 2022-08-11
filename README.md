@@ -7,7 +7,6 @@ Creating and developing war ship game with tool used java with JDK 1.8
 ## Demo
 
 Running Display at the console
-![battleship](https://user-images.githubusercontent.com/96555338/184064801-79df518d-d9d8-46c3-aa42-0d82a833b1ff.gif)
 
 ## Screenshots
 
