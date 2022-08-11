@@ -7,6 +7,7 @@ Creating and developing war ship game with tool used java with JDK 1.8
 ## Demo
 
 Insert gif or link to demo
+![Uploading BDSE03-PFS-1121_Kadek Romi Ardana Putra_Source Code – McqMain.java 2022-08-11 11-47-32 (2).gif…]()
 
 ## Screenshots
 
